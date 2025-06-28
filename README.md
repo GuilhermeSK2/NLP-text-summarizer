@@ -1,6 +1,6 @@
-# Sumarização de Texto com Hugging Face Transformers
+# Resumo de texto com Hugging Face Transformers
 
-Este projeto demonstra a capacidade de um modelo de linguagem pré-treinado para realizar a sumarização de texto. Utilizando a biblioteca `transformers` da Hugging Face, o projeto permite gerar resumos concisos a partir de textos mais longos, destacando as informações mais relevantes.
+Este projeto demonstra a capacidade de um modelo de linguagem pré-treinado para realizar um resumo de texto. Utilizando a biblioteca `transformers` da Hugging Face, o projeto permite gerar resumos concisos a partir de textos mais longos, destacando as informações mais relevantes.
 
 ## Visão Geral
 
